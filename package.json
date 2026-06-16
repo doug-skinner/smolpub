@@ -1,5 +1,5 @@
 {
-  "name": "smolpub",
+  "name": "holler",
   "module": "index.ts",
   "type": "module",
   "private": true,
